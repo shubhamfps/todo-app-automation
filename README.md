@@ -1,4 +1,4 @@
-# Todo App Automation
+testing # Todo App Automation
 
 Instructions to run the app and tests.
 
